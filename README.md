@@ -55,8 +55,6 @@ Loyihani mahalliy xotirada ishga tushirish uchun quyidagi qadamlarni bajaring:
 
 ## 📝 Muаллиф
 
-Loyiha ustida **Antigravity AI** yordamida **Abdilaziz** ish olib borgan.
-
 ---
 
 © 2024 TIU Global tadqiqotlar va innovatsiyalar ilmiy jurnali. Барча ҳуқуқлар ҳимояланган.
